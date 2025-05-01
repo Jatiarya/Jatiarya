@@ -4,7 +4,7 @@ Perkenalkan nama saya **Jati Arya Sujiwa**.<br>
 
 Saya seorang **Mahasiswa** <br>
 
-Saya berusia 20 tahun
+Saya berusia 21 tahun
 
 Berasal dari Lombok Nusa Tenggara Barat.<br>
 
