@@ -1,6 +1,6 @@
 # Halo semua👋! 
 
-Perkenalkan nama saya **Jati Arya Sujiwa**.<br>
+![Header](./your-header-image-name.png)
 
 Saya seorang **Mahasiswa** <br>
 
